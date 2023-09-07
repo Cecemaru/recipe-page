@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://cecemaru.github.io/Checkout-Page/">
+    <a href="https://cecemaru.github.io/recipe-page/">
       Demo
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Cecemaru/Checkout-Page/blob/master/assests/img/screencapture-checkout.png)
+![screenshot](https://github.com/Cecemaru/recipe-page/blob/master/assets/img/recipe-screanshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
