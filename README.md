@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -46,9 +46,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - ✨ Semantic HTML markup
 - ✨ Custom properties
 - ✨ Logical Properties
-- ✨ Media Query Range
-- ✨ Pseudo-element and Pseudo-classes
-- ✨ Input , Select and Checkbox styled
+- ✨ Checkbox styled
 
 ### Built With
 
@@ -60,7 +58,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://www.figma.com/file/4B0x88GhiZvgVlcQPSQ73D/checkout-page-challenge?node-id=14988%3A5&mode=dev) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://www.figma.com/file/2jVBTSKeCYF0dIN6fi0stX/recipe-blog-challenge?node-id=0%3A1&mode=dev) was to build an application to complete the given user stories.
 
 ## Contact
 
