@@ -1,0 +1,38 @@
+.my-awesome-list {
+  counter-reset: my-counter;
+}
+
+.my-awesome-list li {
+  counter-increment: my-counter;
+  display: grid;
+  grid-template-columns: min-content 1fr;
+  gap: 15px;
+  margin-block-end: 2.4rem;
+}
+
+.my-awesome-list li::before {
+  content: counter(my-counter);
+  background-color: orange;
+  font-size: 24px;
+  color: white;
+  font-weight: 700;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  line-height: 1;
+  border-radius: 6px;
+  font-family: "Playfair Display", serif;
+  padding: 0px 12px 7px 11px;
+  aspect-ratio: 1;
+}
+
+form .recipe-check {
+  display: grid;
+  grid-template-columns: 21px 1fr;
+  gap: 0.65rem;
+  margin-bottom: 1rem;
+}
+
+main {
+  max-width: 960px;
+}
